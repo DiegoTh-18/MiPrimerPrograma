@@ -49,3 +49,8 @@ switch (opcion) {
         else if (c.equals("amarillo")) System.out.println("Precaución");
         else if (c.equals("rojo")) System.out.println("Detenerse");
     }
+    public static void estaEnRango(double num, double min, double max){
+        System.out.println(num >= min && num <= max);
+        
+    }
+    
