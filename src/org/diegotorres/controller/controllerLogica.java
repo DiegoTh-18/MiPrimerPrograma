@@ -40,3 +40,6 @@ switch (opcion) {
     public static void verificarEdad(int edad) {
         System.out.println(edad >= 18);
     }
+    public static void esPar(int numero) {
+        System.out.println(numero % 2 == 0);
+    }
