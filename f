@@ -1,0 +1,23 @@
+[33mcommit bf92f4bba6117d00ef24e8ab5ec3ef3470171dba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: Diego Torres <dtorres-2026036@kinal.edu.gt>
+Date:   Sun Apr 12 18:18:44 2026 -0600
+
+    004 se creo el menu de opciones de logico y el primer verificarEdad
+
+[33mcommit 137e7f379d58aefcc10860f034da631533fa4e59[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Diego Torres <dtorres-2026036@kinal.edu.gt>
+Date:   Fri Apr 10 10:06:34 2026 -0600
+
+    002 Se agrego el archivo .gitignore
+
+[33mcommit 7282e5a68a020013bdc95f303af2b2d0fc4199d9[m
+Author: Diego Torres <dtorres-2026036@kinal.edu.gt>
+Date:   Thu Apr 9 11:55:33 2026 -0600
+
+    001 Se agregaron las opciones al menu principal
+
+[33mcommit 6d76c241b8b34d1ba894d1633f19512bfcdfb00b[m
+Author: Diego Torres <dtorres-2026036@kinal.edu.gt>
+Date:   Thu Apr 9 11:35:48 2026 -0600
+
+    00 este es el primer commit
