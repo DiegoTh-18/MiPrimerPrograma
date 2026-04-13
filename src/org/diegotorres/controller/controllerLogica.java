@@ -43,3 +43,9 @@ switch (opcion) {
     public static void esPar(int numero) {
         System.out.println(numero % 2 == 0);
     }
+    public static void controlSemaforo(String color) {
+        String c = color.toLowerCase();
+        if (c.equals("verde")) System.out.println("Avanzar");
+        else if (c.equals("amarillo")) System.out.println("Precaución");
+        else if (c.equals("rojo")) System.out.println("Detenerse");
+    }
